@@ -1,4 +1,4 @@
-# Chianti Atomic Data 6-7
+# Chianti Atomic Data 6 and 7
 CHIANTI raw atomic-data collections 6 and 7
 
 ## CHIANTI data layouts
